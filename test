@@ -1,6 +1,10 @@
 ----------------------------------------------------------------------
-
-
+Bindeep:
+systemctl restart nginx
+systemctl reload nginx
+systemctl start nginx 
+systemctl reload-or-restart nginx
+systemctl status nginx
 
 
 ----------------------------------------------------------------------
