@@ -24,8 +24,14 @@ $ sudo dnf install git-all
 
 If you’re on a Debian-based distribution like Ubuntu, try apt-get:
 
+this is prakash.........
+git push origin <branch>
 
---------------------------------------------------------------------------
+This “pushes” the changes you made to a specified branch to the remote repository. Once we’ve done this, your team members can “pull” and see your changes.
+
+git push origin master
+
+At this point, if git gets angry and roars a bunch of nonsense at you, make sure you are a contributor (or the owner) on the project in order to contribute directly. The other option is to fork the project to your own account, and submit pull requests when you want your buddies to pull your changes. It’s a neat process for contributing to open source projects, but it’s not necessary for a group of friends.
 
 
 
