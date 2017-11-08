@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ----------------------------------------------------------------------
 Bindeep:
 systemctl restart nginx
@@ -5,6 +6,11 @@ systemctl reload nginx
 systemctl start nginx 
 systemctl reload-or-restart nginx
 systemctl status nginx
+=======
+---------------------------------------------------------------------
+
+
+>>>>>>> 4798cd9297d392646b66cc606453df44550966c8
 
 
 ----------------------------------------------------------------------
@@ -28,8 +34,19 @@ $ sudo dnf install git-all
 
 If you’re on a Debian-based distribution like Ubuntu, try apt-get:
 
+<<<<<<< HEAD=
+this is me prakash..............................................
+Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as "vi" with most UNIX systems and with Apple OS X.
 
---------------------------------------------------------------------------
+Vim is rock stable and is continuously being developed to become even better. Among its features are:
+
+    persistent, multi-level undo tree
+    extensive plugin system
+    support for hundreds of programming languages and file formats
+    powerful search and replace
+    integrates with many tools
+
+>>>>>>> master
 
 
 
